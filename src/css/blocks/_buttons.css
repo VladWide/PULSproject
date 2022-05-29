@@ -1,0 +1,42 @@
+.button { 
+    align-items: flex-end;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: #C70101;
+    border: none;
+    font-weight: 500;
+    font-size: 12px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-top: 5px; 
+}
+.button_main {
+    margin-top: 40px;
+    width: 300px;
+    height: 50px;
+    background: #C70101;
+    border-radius: 5px;
+    border: none;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+ }
+ .button_form {
+     margin-top: 5px;
+    width: 303px;
+    height: 58px;
+    left: 0px;
+    top: 200px;
+    background: #C70101;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    border-radius: 5px;
+    border: none ;
+ }

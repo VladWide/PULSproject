@@ -1,0 +1,19 @@
+@import 'blocks/_adventages.css';
+@import 'blocks/_buttons.css';
+@import 'blocks/_header.css';
+@import 'blocks/_promo.css';
+@import 'blocks/_titles.css';
+@import 'blocks/_consultation.css';
+@import 'blocks/_forms.css';
+@import 'mobile/_mobile.css';
+
+
+
+
+* {
+    font-family: 'MuseoSansCyrl' sans-serif;
+}
+.container {
+    max-width: 950px;
+    margin: 0 auto;
+}
