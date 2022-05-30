@@ -1,0 +1,29 @@
+@media (max-width: 768px) {
+    .container {
+         width: 738px;
+        padding: 0 18px 0;
+}  
+    .advantage__wrapper .advantage__icons {
+        margin-top: 25px;  
+}
+}
+@media (max-width: 425px) {
+    .container {
+        max-width: 815px;}
+
+    .promo {
+        height: 619px;
+        width: 739px;
+}
+    .advantage {
+        padding-top: 20px;
+        width: 730px;
+}
+    .advantage__wrapper .advantage__icons {
+        margin-top: 14px;
+        margin-left: 35px;
+}
+    .consultation {
+         width: 739px;
+}
+}

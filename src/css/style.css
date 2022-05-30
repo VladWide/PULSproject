@@ -5,7 +5,8 @@
 @import 'blocks/_titles.css';
 @import 'blocks/_consultation.css';
 @import 'blocks/_forms.css';
-@import 'mobile/_mobile.css';
+@import 'mobile/_media.css';
+@import 'blocks/_carousel.css';
 
 
 
