@@ -12,3 +12,10 @@
     text-transform: uppercase;
     color: #0D0D0D;
 }
+.feedback__title {
+    font-weight: 400;
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #0D0D0D;
+}

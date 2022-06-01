@@ -8,8 +8,8 @@
 @import 'mobile/_media.css';
 @import 'blocks/_carousel.css';
 @import 'blocks/_catalog.css';
-
-
+@import 'blocks/_feedback.css';
+@import 'blocks/_footer.css';
 
 * {
     font-family: 'MuseoSansCyrl' sans-serif;
