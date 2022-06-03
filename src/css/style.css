@@ -10,7 +10,7 @@
 @import 'blocks/_catalog.css';
 @import 'blocks/_feedback.css';
 @import 'blocks/_footer.css';
-
+@import 'blocks/_modal.css';
 * {
     font-family: 'MuseoSansCyrl' sans-serif;
 }
