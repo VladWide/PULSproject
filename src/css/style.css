@@ -11,8 +11,9 @@
 @import 'blocks/_feedback.css';
 @import 'blocks/_footer.css';
 @import 'blocks/_modal.css';
+@import 'blocks/_pageup.css';
 * {
-    font-family: 'MuseoSansCyrl' sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 .container {
     max-width: 950px;
