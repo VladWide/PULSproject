@@ -50,3 +50,8 @@
     align-items: center;
     justify-content: center;
 }
+iframe {
+    width: 100%;
+    height: 630px;
+    border: 0;
+}

@@ -45,3 +45,6 @@
     text-decoration-line: underline;
     color: #FF0000;
 }
+.advantage__icon_animated {
+    animation: heartbeat 1.5s ease infinite;
+}

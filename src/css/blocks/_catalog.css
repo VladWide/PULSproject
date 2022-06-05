@@ -189,3 +189,8 @@
 .catalog-item__back:hover {
     color: #C70101;
 }
+.catalog-item__list > ul {
+    margin-bottom: 1px;
+    padding-left: 1px;
+}
+

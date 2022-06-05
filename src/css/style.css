@@ -12,6 +12,8 @@
 @import 'blocks/_footer.css';
 @import 'blocks/_modal.css';
 @import 'blocks/_pageup.css';
+@import 'blocks/_animations.css';
+
 * {
     font-family: 'Open Sans', sans-serif;
 }
